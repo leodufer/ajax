@@ -1,0 +1,7 @@
+.btn-danger:after{
+	content: 'Dislike';
+}
+
+.btn-default:after{
+	content: 'Like';
+}
