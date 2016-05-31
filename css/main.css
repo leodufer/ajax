@@ -1,7 +1,25 @@
-.btn-danger:after{
-	content: 'Dislike';
+.jumbotron{
+	text-align: center;
 }
 
-.btn-default:after{
-	content: 'Like';
+.jumbotron img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+}
+
+.avatar-user{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+
+.repos{
+	border-radius: 8px;
+	box-shadow: 4px 4px 4px #ccc;
+	padding: 15px;
+}
+
+.repos h4{
+	text-transform: uppercase;
 }
